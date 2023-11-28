@@ -1,8 +1,13 @@
-# React + Vite
+Skateboard configurator built with react three fiber [based on a dribble shot](https://dribbble.com/shots/14078930-Skateboard-configurator) by [Sacha Jerrems](https://dribbble.com/sachajerrems/shots).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image info](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml6NmlnNHlkcmg2Mnk3N2hibTdydDBnNXNhcnVkMXRqdXM3djh6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XHu1aAdZqFcuQj3qW1/giphy.gif)
 
-Currently, two official plugins are available:
+## Live
+https://skate-config.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Local Development
+Download or `git clone` this repository
+
+`npm install`
+
+`npm run dev`
