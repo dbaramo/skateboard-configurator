@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+.section-headline-container {
+  opacity: 0;
+}
+
+.finish-section {
+  display: none;
+}
+
+.rotate-icon-wrapper {
+  display: none;
+  opacity: 0;
+}
